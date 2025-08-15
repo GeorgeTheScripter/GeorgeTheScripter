@@ -10,7 +10,6 @@ Specialize in creating dynamic web applications using a modern technology stack.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Pinia](https://img.shields.io/badge/Pinia-FFD02F?style=for-the-badge&logo=pinia&logoColor=000000)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![ESLint + Prettier](https://img.shields.io/badge/ESLint_+_Prettier-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 
 **Contact:** 
 
