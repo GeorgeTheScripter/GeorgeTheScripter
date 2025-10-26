@@ -1,16 +1,19 @@
-# Frontend разработчик 
+# Frontend Developer (Vue.js)
 
-Специализируюсь на создании динамических веб-приложений с использованием современного стека технологий. В настоящее время активно изучаю лучшие практики разработки, архитектуру приложений и расширяю свою экспертизу в области фронтенд-экосистемы.
+Focused on building modern, responsive web applications. Currently deepening expertise in software architecture patterns and development best practices.
+
+## 🛠 My Stack
+
+<img src="https://img.icons8.com/color/48/4FC08D/vue-js.png" alt="Vue" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/3178C6/typescript.png" alt="TypeScript" width="40" height="40"/>
+<img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/pinia-u348lh9guaun0ulkxs9v.png/pinia-188hgpnebtsc1orlbq9hnq.png?_a=DATAg1AAZAA0" alt="Pinia" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/646CFF/vite.png" alt="Vite" width="40" height="40"/>
+<img src="https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000" alt="Tailwind" width="40" height="40"/>
+<img src="https://img.icons8.com/?size=100&id=ixfybwBsCCEH&format=png&color=000000" alt="PrimeVue" width="40" height="40"/>
+<img src="https://img.icons8.com/?size=100&id=ROMfFZ1tMhpk&format=png&color=000000" alt="Firebase" width="40" height="40"/>
 
 
-### **Мой стек:** 
+## 📫 Let's Connect
+<a href="https://t.me/userwithoutsoul" target="_blank">
+<img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" alt="Telegram" width="40" height="40"/></a>
 
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Pinia](https://img.shields.io/badge/Pinia-FFD02F?style=for-the-badge&logo=pinia&logoColor=000000)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Контакт:** 
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/userwithoutsoul)
