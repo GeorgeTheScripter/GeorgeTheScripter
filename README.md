@@ -11,7 +11,6 @@ Focused on building modern, responsive web applications. Currently deepening exp
 <img src="https://pinia.vuejs.org/logo.svg" alt="Pinia" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/646CFF/vite.png" alt="Vite" width="40" height="40"/>
 <img src="https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000" alt="Tailwind" width="40" height="40"/>
-<img src="https://img.icons8.com/?size=100&id=ixfybwBsCCEH&format=png&color=000000" alt="PrimeVue" width="40" height="40"/>
 <img src="https://img.icons8.com/?size=100&id=ROMfFZ1tMhpk&format=png&color=000000" alt="Firebase" width="40" height="40"/>
 </div>
 
