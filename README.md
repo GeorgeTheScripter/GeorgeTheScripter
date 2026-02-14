@@ -1,4 +1,3 @@
-
 # Frontend Developer (Vue.js)
 
 Focused on building modern, responsive web applications. Currently deepening expertise in software architecture patterns and development best practices.
@@ -6,6 +5,7 @@ Focused on building modern, responsive web applications. Currently deepening exp
 ## 🛠 My Stack
 
 <div style="display:flex; gap:32px;">
+<img src="https://img.icons8.com/?size=100&id=MWzC9CzH4J4E&format=png&color=000000" alt="Nuxt" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/4FC08D/vue-js.png" alt="Vue" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/3178C6/typescript.png" alt="TypeScript" width="40" height="40"/>
 <img src="https://pinia.vuejs.org/logo.svg" alt="Pinia" width="40" height="40"/>
@@ -16,5 +16,4 @@ Focused on building modern, responsive web applications. Currently deepening exp
 
 ## 📫 Let's Connect
 <a href="https://t.me/userwithoutsoul" target="_blank">
-<img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" alt="Tailwind" width="40" height="40"/></a>
-
+<img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" alt="Telegram" width="40" height="40"/></a>
